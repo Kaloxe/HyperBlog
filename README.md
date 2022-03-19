@@ -1,2 +1,1 @@
-# hyperBlog
-Un blog increible
+# HyperBlog
